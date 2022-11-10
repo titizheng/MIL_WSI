@@ -1,9 +1,8 @@
 # MIL_WSI
 Multi-instance learning histopathological image classification paper and code summary
 
-| 年份 | 名字| 简介| 期刊 | 源代码地址 | 引用 
-
-| ------ | ---- | ------------------------------------------------------------ | -------------------- | ------------------------------------------------------------ |
+| 年份 | 名字 | 简介                           | 期刊 | 源代码地址 | 引用 |
+| ------ | ---- | ---------------|--------------------------------------------- | -------------------- | -------------------------------------------|----------------- |
 | 2019 | [MILRNN](papers/MILRNN) | 多示例学习和循环神经网络结合提高弱监督模型性能 |Nature medicine | [MIL-nature-medicine-2019](https://github.com/MSKCC-Computational-Pathology/MIL-nature-medicine-2019)|[![citation]] |
 
 
